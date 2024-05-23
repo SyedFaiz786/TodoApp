@@ -53,7 +53,7 @@ This is a starter template for building applications using React for the fronten
 
 2. Navigate to the project directory:
     ```bash
-    cd TodoApp-main/React-Node-Express-Mongo
+    cd React-Node-Express-Mongo
     ```
 
 3. Install dependencies for the client:
